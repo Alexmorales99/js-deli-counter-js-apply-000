@@ -11,6 +11,8 @@ function takeANumber (katzDeliLine, name) {
   return welcomeStr;
 }
 
+
+
 //0. create a func `nowServing` = (katzDeliLine) => return 1) line[0] and delete it from the line; return 2) the `nobody in line str`;
 //1. create a variable to hold the number of people in line;
 //1. using if (condition) check if line is empty (using .length method) if so return `nobody in line str`;
