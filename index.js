@@ -44,7 +44,7 @@ function currentLine(katzDeliLine) {
     for (let i = 0; i < katzDeliLine.length; i++) {
       let curNumber = i + 1;
       let curName = katzDeliLine[i];
-      curLineMessage += `${curNumber}. ${name}, `;
+      curLineMessage += `${curNumber}. ${curName}, `;
     }
     let noCommaNoSpaceStr = curLineMessage.slice(0, -2);
      return noCommaNoSpaceStr;
