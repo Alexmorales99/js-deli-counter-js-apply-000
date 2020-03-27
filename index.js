@@ -49,7 +49,6 @@ function currentLine(katzDeliLine) {
     let noCommaNoSpaceStr = curLineMessage.slice(0, -2);
      return noCommaNoSpaceStr;
   }
- 
 }
 
 
