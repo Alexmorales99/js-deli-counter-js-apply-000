@@ -13,4 +13,6 @@ function takeANumber (katzDeliLine, name) {
 
 /*Customer comes in to the Deli. He pulls out a tciket, and the ticket gives a number. How would we change the takeANumber function if we dont want to have a line by their names but by numbers?
 
-
+//0. create a func `takeANumber` (katzDeliLine) => return a number of the customer
+//1. create a variable to hold the counter of customers;
+//2. 
